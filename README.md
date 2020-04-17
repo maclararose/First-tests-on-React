@@ -10,7 +10,7 @@
         - RN Cli; ✅
     - Install Andoid Studio; ✅
     - Requirement's Android Studio; ✅
-    - Provisional lesson;
+    - Provisional lesson; ✅
     - Setting Simulator;
     - Commands React Native;
     - Pratice;
