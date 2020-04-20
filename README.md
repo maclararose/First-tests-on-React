@@ -11,7 +11,7 @@
     - Install Andoid Studio; ✅
     - Requirement's Android Studio; ✅
     - Provisional lesson; ✅
-    - Setting Simulator;
+    - Setting Simulator; ✅
     - Commands React Native;
     - Pratice;
     - Creating first app with Expo;
