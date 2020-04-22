@@ -13,7 +13,7 @@
     - Provisional lesson; ✅
     - Setting Simulator; ✅
     - Commands React Native; ✅
-    - Pratice;
+    - Pratice; ✅
     - Creating first app with Expo;
         - Pt 1;
         - Pt 2;
