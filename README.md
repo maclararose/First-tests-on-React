@@ -12,7 +12,7 @@
     - Requirement's Android Studio; ✅
     - Provisional lesson; ✅
     - Setting Simulator; ✅
-    - Commands React Native;
+    - Commands React Native; ✅
     - Pratice;
     - Creating first app with Expo;
         - Pt 1;
