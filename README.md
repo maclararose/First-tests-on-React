@@ -14,7 +14,7 @@
     - Setting Simulator; ✅
     - Commands React Native; ✅
     - Pratice; ✅
-    - Creating first app with Expo;
-        - Pt 1;
+    - Creating first app with Expo; ✅
+        - Pt 1; ✅
         - Pt 2;
     - Plugin for VS Code;
