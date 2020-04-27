@@ -17,6 +17,6 @@
 - Creating first app with Expo; ✅
     - Pt 1; ✅
     - Pt 2; ✅
-- Plugin for VS Code;
-    - Pt 1;
+- Plugin for VS Code; ✅
+    - Pt 1; ✅
     - Pt 2;
